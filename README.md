@@ -99,7 +99,7 @@ You can find my app hosted at: http://ec2-3-144-114-182.us-east-2.compute.amazon
 ## Roadmap
 
 :white_check_mark: = Completed
-:constrcuction:    = Incomplete
+:construction:    = Incomplete
 
 | Feature         | Status             |
 |-----------------|--------------------|
