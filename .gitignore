@@ -1,0 +1,27 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+override.tf
+_override.tf
+override.tf.json
+_override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform crash log
+crash.log
+
+# Terraform provider plugins
+.terraform.d/plugin-cache/
+
+# Terraform plan files
+*.tfplan
+
+# Terraform CLI configuration
+terraform.rc
+
+*rsa*
+
+**.terraform.lock.hcl**
