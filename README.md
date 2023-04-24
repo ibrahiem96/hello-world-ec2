@@ -96,9 +96,18 @@ You can find my app hosted at: http://ec2-3-144-114-182.us-east-2.compute.amazon
 
 ![hello-world](./hello-world-app.png)
 
+## Roadmap
 
+:white_check_mark: = Completed
+:constrcuction:    = Incomplete
 
-
-
-
+| Feature         | Status             |
+|-----------------|--------------------|
+| Terraform IaC   | :white_check_mark: |
+| Application     | :white_check_mark: |
+| Docker articact | :white_check_mark: |
+| Documentation   | :white_check_mark: |
+| Artifact CI     | :white_check_mark: |
+| Artifact CD     | :construction:     |
+| Terraform CI/CD | :construction:     |
 
